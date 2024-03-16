@@ -7,8 +7,8 @@ banner:
   content : "Travaillons ensemble pour rendre votre projet Agile
   
   
-  Au travers le Guide du petit Agiliste je souhaite vous partager les concepts essentiels de l’agilité, expliquer l’importance de la culture Agile, et vous guider dans la réflexion de la transformation de vos équipes. 
-  Ce guide est une introduction "
+  Au travers du guide du petit Agiliste je souhaite vous partager les concepts essentiels de l’agilité, expliquer l’importance de la culture Agile, et vous guider dans la réflexion de la transformation de vos équipes. 
+  Ce guide est une introduction."
   price : "0"
 
 ######################## Book Preview ##########################
@@ -74,9 +74,9 @@ chapters:
   enable : true
   title : "Liste des chapitres"
   chapter:
-    # chapter preview loop
+   # chapter preview loop
     - title : "Chapitre 1 - S'assurer d'échouer"
-      content : "Pourquoi de nombreuses équipes échouent leur transformation Agile"
+      content : "Pourquoi de nombreuses équipes échouent leur transformation Agile ?"
 
     # chapter preview loop
     - title : "Chapitre 2 - Promesse et illusions"
@@ -92,15 +92,16 @@ chapters:
 
          # chapter preview loop
     - title : "Chapitre 5 - Cadres de travail Agile"
-      content : "Découvrer brièvement les cadres de travail Scrum et Kanban"
+      content : "Découvrez brièvement les cadres de travail Scrum et Kanban"
 
          # chapter preview loop
     - title : "Chapitre 7 - Pratiques Agile"
-      content : "Les pratiques Agiles les plus utilisées : User-story, Daily, DoD, etc"
+      content : "Les pratiques Agile les plus utilisées : User-story, Daily, DoD, etc"
 
          # chapter preview loop
     - title : "Chapitre 8 - Métriques"
       content : "Apprenez à mesurer tout en faisant attention aux mauvaises interprétations"
+
       
 ########################## Revews ###########################
 reviews:
@@ -170,14 +171,10 @@ author:
   name : "Adrien CAUBEL"
   designation : "Ingénieur en Génie Logiciel"
   content : "
-  J'accompagne les entreprises dans la conception et l'architecture de système complexes.
-  
+ J’accompagne les entreprises dans la conception et l’architecture de systèmes complexes.
 
 
-  En parallèle j'interviens à l'IUT sur des cours liés à la gestion de projet dans l'IT.
-
-  C'est à cette occasion que j'ai voulu retranscrire dans un livre un ensemble connaissances et d'éléments essentiels pour introduire l'agilité au plus grand nombre."
-
+En parallèle, j’interviens à l’IUT sur des cours liés à la gestion de projet dans l’IT. C’est à cette occasion que j’ai voulu retranscrire dans un livre un ensemble connaissances et d’éléments essentiels pour introduire l’agilité au plus grand nombre." 
   # signature
   signature : "images/about/2.png"
 
