@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "/"
+baseURL = "https://livre.adriencaubel.fr/"
 languageCode = "fr-fr"
 title = "Le guide du petit Agiliste"
 theme = "influencer-hugo"
